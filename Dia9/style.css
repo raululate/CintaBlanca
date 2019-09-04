@@ -1,0 +1,18 @@
+#imagenrino{
+
+    height:700px;
+    width: 14000px;
+    margin-top:50px;
+    margin-bottom: 50px;
+
+    }
+    .container{
+        display: flex;
+        justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    }
+.rojo{
+    color: red;
+    }
+
