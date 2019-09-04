@@ -1,0 +1,111 @@
+    .azul{
+        height: 102.3333px;
+        width: 1024px;
+        background: #002B7F;
+    }
+    .blanco{
+        height: 102.3333px;
+        width: 1024px;
+        background: #ffffff;
+    }
+    .rojo{
+        height: 204.6666px;
+        width: 1024px;
+        background: #CE1126;
+        display: flex;
+        justify-content: center;
+    }
+    #escudo{
+        width: 146px; 
+        height:160px ;
+        border-radius: 75px;
+   }
+    .bloquerojo{
+        border-radius: 30px;
+        height: 204.6666px;
+        width: 512px;
+        display: flex;
+        justify-content:flex-start;
+        align-items: center;
+    }
+    #banderaCR{
+        height: 614px;
+        width: 1024px;
+        border: solid black 1px;
+        display: flex;
+        flex-direction: column;
+            }
+.rojocuadrado{
+    height: 230.25px;
+    width: 279.272727px;
+    background: #C8102E;
+}
+.blancoreg{
+    height: 230.25px;
+    width: 46.545454px;
+    background: #ffffff;
+}
+.azulreg{
+    background: #003087;
+    height: 230.25px;
+    width: 93.0909091px;
+}
+.rojoreg{
+    height: 230.25px;
+    width: 558.545455px;
+    background: #C8102E;
+}
+.sidesblock{
+    width: 1024px;
+    height: 230.25px;
+    display: flex;
+    flex-direction: row
+    }
+
+.blanco1{
+    height: 38.375px;
+    width: 325.818182px;
+    background: #ffffff
+}
+.azulcentro{
+    height: 38.375px;
+    width: 93.0909091px;
+    background: #003087;
+}
+.blanco2{
+    height: 38.375px;
+    width: 605.090909px;
+    background: #ffffff
+}
+.centrolados{
+    height: 38.375px;
+    width: 1024px;
+    display: flex;
+    flex-direction: row;
+    }
+.centrocentro{
+    height: 76.75px;
+    width: 1024px;
+    background: #003087;
+}
+.centerblock{
+    height: 153.5px;
+    width: 1024px;
+}
+    #banderaNorway{
+        height: 615px;
+        width: 1025px;
+        border: solid black 1px;
+        display: flex;
+        flex-direction: column;
+               }
+
+#banderas{
+    display: flex;
+    flex-direction: column;
+    height: 1288px;
+    width: 1144px;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start
+    }

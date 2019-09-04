@@ -1,0 +1,45 @@
+.navbar{
+    background: grey;
+    height:50px;
+    display:flex;
+    justify-content: flex-end
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    justify-content: space-around;
+    background: black;
+    color: white;
+}
+.main-container{
+    /*vh son medidas relativas del momento en el que se esta desplegando en la pantalla y no del total de la misma*/
+    height:80vh;
+    background: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column
+}
+#input{
+    border-radius: 25px;
+}
+.searcher{
+    background: purple; 
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+.buttons{
+    /* width: 250px; */
+    background: green;
+    border-radius: 25px;
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between
+}
+/*.button{
+    width: 109px;
+    margin-left: 10px;
+    margin-right: 10px;
+}*/

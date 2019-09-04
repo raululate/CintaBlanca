@@ -1,0 +1,11 @@
+*{font-family: 'Courier New', Courier, monospace }
+.imgredonda{ 
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;}
+.linea  {
+    color: navy ;
+    size: 50;
+    height: 5px;
+    width: 85%;
+}

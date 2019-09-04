@@ -1,0 +1,22 @@
+/*comentarios en css*/
+/* el selector * afecta todas las etiquetas de HTML*/
+*{
+    font-family: 'Courier New', Courier, monospace
+}
+/*aca modifico cada una de las etiquetas individualmente*/
+h1 {
+color: black;
+}
+body{
+    background: rgb(228, 217, 217)
+    }
+ol{
+    
+    color: rgb(42, 133, 42);
+}       
+.asteroides {
+    color: yellow
+}
+.after {
+    color: brown
+}

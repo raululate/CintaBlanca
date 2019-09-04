@@ -1,0 +1,28 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+#caja1{
+    background: purple;
+    height: 100px;
+    border: dashed 5px black;
+    /*padding va a empujar los elementos hacia adentro*/ 
+    /*se usan medidas relativas (porcentajes) para que la pagina sea responsive*/
+     padding: 5%;
+     border-radius: 15px;
+
+} 
+#texto{
+color:white;
+background: black;
+
+}
+.tarjeta{
+    background: gray;
+    height:300px;
+    width: 300px;
+    margin-top: 50px;
+    border-radius: 30px;
+    /*display para acomodar tarjetas*/
+    display: inline-block;
+    margin-right: 30px;
+        }

@@ -1,0 +1,9 @@
+body{
+    background: url("https://cdn-3.expansion.mx/dims4/default/f49c874/2147483647/strip/true/crop/800x450+0+0/resize/800x450!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fbe%2F30%2F5af023be4d0fb7f81aff749c3609%2Fsistema-solar-1.jpg");
+    background-size : cover;
+    background-repeat: no-repeat;
+}
+
+.container{
+    background:white;
+}   

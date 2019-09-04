@@ -1,0 +1,93 @@
+*{
+    font-family: Helvetica, sans-serif
+}
+
+
+#header1{
+    width: 40%;
+    margin-left: 2.8vh;
+   background: blue;
+   display: flex;
+   justify-content: flex-start;
+   align-items: center;
+    }
+#spotifylogo{
+    height: 5.54vh;
+    width: 18.28vh; 
+    margin-top: 0.7vh;
+}
+
+.header2-1{
+    width: 15%;
+    font-size: 2.25vh;
+    font-weight: bold;
+    /*min-height: 4px; DUDADUDADUDA*/
+    }
+#header2{
+        width: 60%;
+        margin-right: 2.80vh;
+        background:green;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        }
+    #header{
+        height: 10vh;
+        width: 100%;
+        display: flex;
+        position: fixed;
+        }
+#bottomheader1{
+font-size: 11.23vh;
+font-weight: bold;
+height: 13.5vh;
+width: 100%;
+color: white;
+}
+#bottomheader2{
+    font-size: 4.32vh;
+    font-weight: bold;
+    height: 10.39vh;
+    width: 100%;
+    color: white; 
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;    
+}
+#textobutton{
+    text-transform: uppercase;
+    color: white;
+}
+#button{
+    background: #1db954;
+    width: 42vh;
+    height:6.2vh;
+    border-radius: 3px;
+}
+#bottomheader3{
+    width: 43.16vh;
+    height:6.6vh;
+    }
+#bottomheader4{
+  font-size: 1.662vh;
+  
+
+}
+#bottomheader{
+
+    margin-top: 10vh;
+    height:60vh;
+    width: 100%;
+    }
+#navbar{
+    height: 75vh;
+    width: 100%;
+    background:  #509bf5;
+    display: flex;
+    flex-direction: column;    
+    justify-content: flex-start;
+    }
+.main1{
+    height: 4000px;
+    width: 100%;
+   }

@@ -1,0 +1,38 @@
+.box-1{
+    background: red;
+    height: 100px;
+    width: 100px;
+}
+.box-2{
+    background: yellow;
+    height: 100px;
+    width: 100px;
+}
+.box-3{
+    background: green;
+    height: 100px;
+    width: 100px;
+}
+.box-4{
+    background: blue;
+    height: 100px;
+    width: 100px;
+}
+.flex-container{
+background: purple;
+height:1000px;
+width: 100%;
+/* elementos en linea  */
+/*display: inline-block;*/
+/*en bloque*/
+/*display:block*/
+
+display: flex;
+/*acomodo horizontal fila, vertical columna*/
+justify-content: center;
+/*acomodo vertical para fila, horizontal columna*/
+align-items: center;
+/*acomdo como fila o columna; esto invierte el orden anterior*/
+flex-direction: column;
+
+}
